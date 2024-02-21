@@ -13,7 +13,7 @@ Before you begin, ensure you have the latest version of Node.js and npm installe
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-project.git
+    https://github.com/rithu2000/DataNeuron.git
     ```
 
 2. Navigate to the project directory:
