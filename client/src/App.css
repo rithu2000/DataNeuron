@@ -1,0 +1,7 @@
+/* App.css */
+
+.resizable-component {
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    padding: 10px;
+}
