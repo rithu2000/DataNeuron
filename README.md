@@ -1,6 +1,6 @@
-# Your Project Name
+# React Resizable
 
-Welcome to Resizable component project! This project is built with react and nodejs.
+Welcome to DataNeuron project! This project is built with react and nodejs.
 
 ## Getting Started
 
